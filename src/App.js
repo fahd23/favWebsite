@@ -23,7 +23,8 @@ const websiteDB = {
     { websitename: "W3Schools", rating: "4.5/5" },
     { websitename: "MDN Web Docs", rating: "4.2/5" },
     { websitename: "javatpoint", rating: "4/5" }
-  ]
+  ],
+  Bootcamp: [{ websitename: "NeoG.camp", rating: "5/5" }]
 };
 
 export default function App() {
